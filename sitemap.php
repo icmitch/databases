@@ -1,0 +1,33 @@
+<?php
+print("Assignment 3.0");
+print("<ol>");
+print '<li><a href="assignment2.0/index.php">Index</a></li>';
+print '<li><a href="assignment2.0/tables.php">Tables</a></li>';
+print '<li><a href="assignment2.0/select.php">Select</a></li>';
+print '<li><a href="assignment2.0/q01.php">q01</a></li>';
+print '<li><a href="assignment2.0/q02.php">q02</a></li>';
+print '<li><a href="assignment2.0/q03.php">q03</a></li>';
+print '<li><a href="assignment2.0/q04.php">q04</a></li>';
+print '<li><a href="assignment2.0/q05.php">q05</a></li>';
+print '<li><a href="assignment2.0/q06.php">q06</a></li>';
+print("</ol>");
+print("Assignment 2.0");
+print("<ol>");
+print '<li><a href="assignment2.0/index.php">Index</a></li>';
+print '<li><a href="assignment2.0/tables.php">Tables</a></li>';
+print '<li><a href="assignment2.0/select.php">Select</a></li>';
+print '<li><a href="assignment2.0/q01.php">q01</a></li>';
+print '<li><a href="assignment2.0/q02.php">q02</a></li>';
+print '<li><a href="assignment2.0/q03.php">q03</a></li>';
+print '<li><a href="assignment2.0/q04.php">q04</a></li>';
+print '<li><a href="assignment2.0/q05.php">q05</a></li>';
+print '<li><a href="assignment2.0/q06.php">q06</a></li>';
+print '<li><a href="assignment2.0/q07.php">q07</a></li>';
+print '<li><a href="assignment2.0/q08.php">q08</a></li>';
+print '<li><a href="assignment2.0/q09.php">q09</a></li>';
+print '<li><a href="assignment2.0/q11.php">q11</a></li>';
+print("</ol>");
+print("Assignment 1.0");
+print '<li><a href="assignment1.0/index.php">Index</a></li>';
+print '<li><a href="assignment1.0/tables.php">Tables</a></li>';
+    
